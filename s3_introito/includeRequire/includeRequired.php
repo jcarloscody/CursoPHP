@@ -9,6 +9,7 @@
  * 
  * tbm temos o include remoto/dinamico: permite trazer um arquivo de um site. tem o perigo que pode ter script malicioso
  * 
+ * include_once - irá incluir apenas uma vez, se tentar incluir mais uma vez não irá funcionar
 */
 
 //require "paraInclude.php";
@@ -18,7 +19,7 @@
   se não estiver funcionando perfeitamente ou se não existir o require gera um erro fatal e para a execucao 
   do codigo.
 
-  com o PHP7 o erro fatal gera uma exceção que pode ser tratada e com isso evitando a quebra da pagina
+  com o PHP7: o erro fatal gera uma exceção que pode ser tratada e com isso evitando a quebra da pagina
 */
 
 require_once "paraInclude.php";  //irá incluir apenas uma vez, se tentar incluir mais uma vez não irá funcionar

@@ -18,4 +18,3 @@ print_r(BANCO_DE_DADOS);
 
 echo "<br>";
 echo PHP_VERSION; //constante definida na linguage php
-echo DIRECOTY_SEPARAT;
