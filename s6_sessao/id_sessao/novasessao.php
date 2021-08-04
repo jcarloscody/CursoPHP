@@ -2,7 +2,7 @@
 
 require_once("../entendendo_sessao/config.php");
 
-session_regenerate_id(); //gera novamente um novo id, uma nova sessao.
+session_regenerate_id(); //gera novamente um novo id, uma nova sessao. é util para quando fazer o login e gerar um nova sessao para a seguranca do user
 echo session_id();
 
 
