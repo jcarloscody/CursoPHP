@@ -56,6 +56,7 @@ while(true){
 
 echo "<br>";
 echo "<br>";
+//echo "isset";
 if(isset($_GET)){ //como na primeira vez o get é vazio, para nao dar erro de indefino, pergunta se a variavel existe
     foreach($_GET as $key => $valor ){
         echo "nome ". $key . " valor ". $valor . "<br>" ;

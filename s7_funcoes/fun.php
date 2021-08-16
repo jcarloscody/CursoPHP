@@ -91,6 +91,7 @@ echo somaArray(3.3,4.5); //vai ignorar os decimais pq só recebe inteiros
 
 echo "<br> ";echo "<br> ";
 
+//RETORNO   -----******
 function somaArray2(int ...$numeros): string{ //fazendo uma funcao com tipo de retorno string
     return array_sum($numeros);
 }
