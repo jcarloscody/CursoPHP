@@ -1,0 +1,9 @@
+Olá pessoal
+
+Se você estiver utilizando Linux ou Mac, pode se deparar com um erro ao reproduzir o exemplo da aula
+
+Para resolver esse problema, deixe a sua variável $filename no arquivo config.php assim:
+
+$filename = str_replace ("\\", "/", $dirClass . DIRECTORY_SEPARATOR . $nameClass . ".php");
+
+Abraço :)
