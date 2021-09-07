@@ -1,0 +1,12 @@
+Olá pessoal
+Nesta aula, os professores instalarão o SQL Server, além de DLLs para o PHP poder conectar com esse serviço de Banco de Dados
+Entretanto, essas DLLs variam de acordo com a versão de seu PHP. Baixe o arquivo .zip e escolha a pasta que for compatível com seu PHP :)
+Grande abraço
+
+
+
+https://www.microsoft.com/pt-br/sql-server/sql-server-2019
+
+https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017
+
+https://www.hcode.com.br/blog/instalando-sql-server-e-conectando-com-php
