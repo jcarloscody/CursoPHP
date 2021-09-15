@@ -1,0 +1,15 @@
+recurso BOLETO PHP
+
+desenvolvido pelo grupo que observou as regras bancarias e compartilhou a api 
+
+-> desde de 2015 os bobletos sem registros não estao sendo mais usados, agora so registrado, ou seja,
+boleto sem registro é aquele que vc pode emitir e nao precisa informar ao banco, agora boleto com registro
+é quando vc gera um boleto informando ao banco informando sobre a geracao, para isso precisa de uma integracao com o banco
+ter um manual de remerssa, isso varia de banco para banco. depois é so pesquisa arquivo de remessa php banco tal.
+
+
+-> aqui sera mostrado como integra o nosso sistema com o boleto pbhp 
+
+
+
+https://github.com/CobreGratis/boletophp

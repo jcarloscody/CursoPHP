@@ -1,0 +1,15 @@
+{
+    "name": "nom/composer",
+    "description": "aula de php7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Josue",
+            "email": "josuecarlosos2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}

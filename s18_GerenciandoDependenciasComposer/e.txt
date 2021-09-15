@@ -1,0 +1,42 @@
+
+https://getcomposer.org/
+
+
+é um gerenciador de dependencias do php, ou seja, tem instrucoes indicando quais bibliotecas o meu projeto 
+precisa para funcionar por exemplo.
+
+
+
+
+INICIAR
+-> pode criar um arquivo composer.json
+-> linha de comando
+    composer init           //para criar os arquivos
+    composer install        //para instalar as dependencias do composer. so é usado na primeira vez
+    composer update         //atualizar copos
+
+
+
+
+tipo de versao:
+    stable: 
+    urc:  a primeira versao de lancamento
+    beta:
+    alfa:
+    dev: desenvolvimento
+
+pesquisar tipos de licenças 
+
+
+
+
+
+explicacoes do composer
+require: vc pode colocar o que vc quer que o composer baixe para vc como dependencias
+composer.lock: (arquivo), tem as informacoes do download que ele fez ...
+pasta vendor: dentro dela tem todos os vendor que foi baixado
+autoload.php: ele tem a inteligencia de carregar automaticamente 
+
+
+
+ver site php-fig.org
