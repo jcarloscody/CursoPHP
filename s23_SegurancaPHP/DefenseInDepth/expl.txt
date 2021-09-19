@@ -1,0 +1,8 @@
+Defense In Depth
+
+-> isto é, defesa em camada.
+-> ou seja, criar várias camadas de segurança
+-> tipos: arquitetura fisica e ambiente de programacao
+-> arquitetura fisica: envolve desde a seguranca do servidor web 
+    -> hoje temos a nuvem: amazon, digital ochen, google cloud, microsoft azure. permitem criar maquinas virtuais online
+    e hospedar o site alí.
