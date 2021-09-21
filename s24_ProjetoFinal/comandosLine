@@ -1,0 +1,2 @@
+composer dump-autoload   ->>>> gera novamente o autoload para enteder que as novas pastas inseridas no vendor faz
+parte do pacote
